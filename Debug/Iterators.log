@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Josh\source\repos\Iterators\main.cpp(17,14): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Josh\source\repos\Iterators\main.cpp(17,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Iterators.vcxproj -> C:\Users\Josh\source\repos\Iterators\Debug\Iterators.exe
